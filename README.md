@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Charles Cottrill at mPulse Mobile|chuck.cottrill@mpulsemobile.com]
+- 👋 Hi, I’m [Charles Cottrill at mPulse Mobile|chuck cottrill at mpulsemobile com]
 - 👀 I’m interested in Computing Systems (Algorithms, Systems, Concurrency, Messaging), and AI/ML
 - 🌱 I’m currently learning Chemistry and French
 - 💞️ I am open to collaborate on Distributed and High Performance Systems
